@@ -1,0 +1,38 @@
+[
+    {
+        "id": "4bc30ee0-a224-4f95-84e4-5687fa180d41",
+        "link_from": "65def03c-d082-46dd-9942-32fad2857f69",
+        "link_to": "b69ad6b4-873d-4332-aec4-a79feccebe33",
+        "link_relation": "parent"
+    },
+    {
+        "id": "76411087-c0b1-4aa6-9b85-30c410cf195f",
+        "link_from": "23c24c3b-de9d-4c5d-b111-38f7a00b9659",
+        "link_to": "b69ad6b4-873d-4332-aec4-a79feccebe33",
+        "link_relation": "parent"
+    },
+    {
+        "id": "a2e83c60-306e-42fd-89a5-66e71f56bfb7",
+        "link_from": "65def03c-d082-46dd-9942-32fad2857f69",
+        "link_to": "bb0c871d-697d-475a-b627-4272fb2c9cec",
+        "link_relation": "parent"
+    },
+    {
+        "id": "b4bd1bff-b515-4560-980b-d0d52bc91cd7",
+        "link_from": "7c7f037f-dc43-476f-b4d4-3d71f465b6b2",
+        "link_to": "bb0c871d-697d-475a-b627-4272fb2c9cec",
+        "link_relation": "sibling"
+    },
+    {
+        "id": "ff55aeb9-2f58-44e9-b296-a1f72003bc38",
+        "link_from": "b69ad6b4-873d-4332-aec4-a79feccebe33",
+        "link_to": "6e1362d5-15cd-4d37-86d9-910542b32bc1",
+        "link_relation": "spouse"
+    },
+    {
+        "id": "b11a15e8-7677-4a72-8086-25785d01eacb",
+        "link_from": "6e1362d5-15cd-4d37-86d9-910542b32bc1",
+        "link_to": "ff0b43d5-ec29-48c8-a8de-09301758d5b7",
+        "link_relation": "parent"
+    }
+]
